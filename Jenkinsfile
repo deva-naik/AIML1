@@ -24,7 +24,7 @@ steps {
 // Create the artifacts directory if it doesn't exist
 sh 'mkdir -p artifacts'
 // Copy the dev.html file to the artifacts directory
-sh 'cp dev.html ./artifacts/'
+sh 'cp dd.html ./artifacts/'
 }
 }
 }
